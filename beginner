@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<head>
+<style>
+a:link{
+color:green;
+background-color:transparent;
+text-decoration:none;
+}
+a:visited{color:yellow;
+background-color:transparent;
+text-decoration:none
+}
+a:hover
+{color:blue;
+background-color:transparent;
+text-decoration:underline;
+}
+</style>
+<h1>link colors</h1>
+<a href="google.com" target="_blank">HTML IMAGES</a>
+</body>
+</html>
